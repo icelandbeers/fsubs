@@ -23,7 +23,7 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👨‍💻 Developed by </b><a href='https://t.me/amwang'>@AMANG</a>
+👨‍💻 Developed by </b><a href='https://t.me/DanteVincente'>@DANTE</a>
 """
 
     close = [
@@ -51,7 +51,7 @@ class Data:
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/amanqs/FileSharing'>FileSharing </a>
+ • Source Code: <a href='https://github.com/xflydan/fsub'>fsub </a>
 
-👨‍💻 Developed by </b><a href='https://t.me/amwang'>@AMANG</a>
+👨‍💻 Developed by </b><a href='https://t.me/DanteVincente'>@DANTE</a>
 """
